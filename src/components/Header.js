@@ -5,7 +5,7 @@ function Header() {
         display: 'flex',
         alignItems: 'center',
         padding: '0px 30px',
-        backgroundColor: 'blue',
+        backgroundColor: '#697565',
       }}
     >
       <img src='/images/cake.webp' width={100} />
