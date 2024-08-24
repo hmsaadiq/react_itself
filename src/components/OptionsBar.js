@@ -55,6 +55,7 @@ function OptionsBar({ sideBarContent, order, setOrder }) {
                         setOrder({ ...order, size: e.target.value });
                       item.name == 'Layers' &&
                         setOrder({ ...order, layers: e.target.value });
+                        
                     }}
                   />
                   <label>{option}</label>
