@@ -1,4 +1,4 @@
-import form from './components/form'
+import Formzz from "./components/formzz";
 return(
     <>
     </>
